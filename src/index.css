@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'inter', sans-serif;
+}
+
+:root {
+  --yellow: linear-gradient(180deg, #F8D49A -146.42%, #FAD790 -46);
+  --orange: #fca61f;
+  --balck: #242d49;
+  --gray: #788097;
+  --purple: linear-gradient(180deg, #BB67FF 0%, #C484F3 100%);
+  --pink: #FF919D;
+  --box-shadow: 0px 19px 60px rgb(0 0 0/8%);
+  --sm-box-shadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
+  --activeItem: #f799a354;
+}
